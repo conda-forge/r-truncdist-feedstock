@@ -1,11 +1,11 @@
-About r-truncdist
-=================
+About r-truncdist-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-truncdist-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=truncdist
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-truncdist-feedstock/blob/main/LICENSE.txt)
 
 Summary: A collection of tools to evaluate probability density functions, cumulative distribution functions, quantile functions and random numbers for truncated random variables.  These functions are provided to also compute the expected value and variance. Nadarajah and Kotz (2006) developed most of the functions. QQ plots can be produced. All the probability functions in the stats, stats4 and evd packages are automatically available for truncation..
 
